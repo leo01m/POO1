@@ -1,4 +1,0 @@
-git add .//atualiza os arquivos do repositorio
-git commit -m "" //faz uma nova versão após atualizado 
-git status //da os status do repositorio 
-git init //inicializar um repositorio git
