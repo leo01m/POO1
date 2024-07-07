@@ -38,4 +38,3 @@ class Triangulo extends FormaBidimensional {
         return 0.5 * base * altura;
     }
 }
-class Circulo
